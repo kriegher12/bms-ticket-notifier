@@ -1,54 +1,5 @@
 {
-  "shows": {
-    "PVES|32012|20260727|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "12:50 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVES|32012|20260727|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "12:50 PM",
-      "date": "20260727",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVSR|26212|20260727|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "03:10 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PVSR|26212|20260727|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "03:10 PM",
-      "date": "20260727",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "2"
-    },
-    "PVHC|30427|20260727|PRIME": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:50 PM",
-      "date": "20260727",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PVHC|30427|20260727|CLASSIC": {
-      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
-      "time": "03:50 PM",
-      "date": "20260727",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    }
-  },
+  "shows": {},
   "dates": {
     "20260727": "BOOKABLE",
     "20260728": "AVAILABLE",
